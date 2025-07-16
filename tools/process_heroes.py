@@ -27,9 +27,7 @@ boxed_sets = [
 
 def merge(item1, item2):
     return {
-        'id': item1['id'],
-        'name': item1['name'],
-        'health': item1['health'],
+        **item1,
         'types': sorted(list(set(item1['types'] + item2['types'])), key=str.lower),
         'formats': sorted(list(set(item1['formats'] + item2['formats'])), key=str.lower),
     }
@@ -68,12 +66,14 @@ def normalize_hero_id(item):
     return hero_id
 
 def process(item):
+    hero_id = normalize_hero_id(item)
     return {
-        'id': normalize_hero_id(item),
+        'id': hero_id,
         'name': item['name'],
         'health': int(item['health']) if item['health'].isnumeric() else 0,
         'types': item['types'],
         'formats': formats(item),
+        'image_url': f'https://pitch-life.github.io/images/{hero_id}.heic'
     }
 
 branch = 'super-slam'

@@ -12,7 +12,8 @@
             "blitz",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/arakni.heic"
     },
     {
         "id": "arakni-5lp3d-7hru-7h3-cr4x",
@@ -26,7 +27,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/arakni-5lp3d-7hru-7h3-cr4x.heic"
     },
     {
         "id": "arakni-huntsman",
@@ -39,7 +41,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/arakni-huntsman.heic"
     },
     {
         "id": "arakni-marionette",
@@ -53,7 +56,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/arakni-marionette.heic"
     },
     {
         "id": "arakni-solitary-confinement",
@@ -69,7 +73,8 @@
             "commoner",
             "Limited:OUT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/arakni-solitary-confinement.heic"
     },
     {
         "id": "arakni-web-of-deceit",
@@ -86,7 +91,8 @@
             "commoner",
             "Limited:HNT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/arakni-web-of-deceit.heic"
     },
     {
         "id": "aurora",
@@ -103,7 +109,8 @@
             "commoner",
             "Limited:ROS",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/aurora.heic"
     },
     {
         "id": "aurora-shooting-star",
@@ -116,7 +123,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/aurora-shooting-star.heic"
     },
     {
         "id": "azalea",
@@ -133,7 +141,8 @@
             "Limited:ARC",
             "Limited:OUT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/azalea.heic"
     },
     {
         "id": "azalea-ace-in-the-hole",
@@ -146,7 +155,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/azalea-ace-in-the-hole.heic"
     },
     {
         "id": "benji-the-piercing-wind",
@@ -162,7 +172,8 @@
             "commoner",
             "Limited:OUT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/benji-the-piercing-wind.heic"
     },
     {
         "id": "betsy",
@@ -178,7 +189,8 @@
             "commoner",
             "Limited:HVY",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/betsy.heic"
     },
     {
         "id": "betsy-skin-in-the-game",
@@ -191,7 +203,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/betsy-skin-in-the-game.heic"
     },
     {
         "id": "blaze-firemind",
@@ -205,7 +218,8 @@
         "formats": [
             "blitz",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/blaze-firemind.heic"
     },
     {
         "id": "bolfar-bear-hands",
@@ -219,7 +233,8 @@
         "formats": [
             "upf",
             "Boxed:SMP"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/bolfar-bear-hands.heic"
     },
     {
         "id": "boltyn",
@@ -236,7 +251,8 @@
             "commoner",
             "Limited:MON",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/boltyn.heic"
     },
     {
         "id": "bravo",
@@ -252,7 +268,8 @@
             "commoner",
             "Limited:WTR",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/bravo.heic"
     },
     {
         "id": "bravo-flattering-showman",
@@ -268,7 +285,8 @@
             "Boxed:SMP",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/bravo-flattering-showman.heic"
     },
     {
         "id": "bravo-showstopper",
@@ -281,7 +299,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/bravo-showstopper.heic"
     },
     {
         "id": "bravo-star-of-the-show",
@@ -294,7 +313,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/bravo-star-of-the-show.heic"
     },
     {
         "id": "brevant-civic-protector",
@@ -309,7 +329,8 @@
             "blitz",
             "Boxed:TCC",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/brevant-civic-protector.heic"
     },
     {
         "id": "briar",
@@ -325,7 +346,8 @@
             "commoner",
             "Limited:ELE",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/briar.heic"
     },
     {
         "id": "briar-warden-of-thorns",
@@ -338,7 +360,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/briar-warden-of-thorns.heic"
     },
     {
         "id": "brutus-summa-rudis",
@@ -350,7 +373,8 @@
         ],
         "formats": [
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/brutus-summa-rudis.heic"
     },
     {
         "id": "chane",
@@ -366,7 +390,8 @@
             "commoner",
             "Limited:MON",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/chane.heic"
     },
     {
         "id": "chane-bound-by-shadow",
@@ -379,7 +404,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/chane-bound-by-shadow.heic"
     },
     {
         "id": "cindra",
@@ -397,7 +423,8 @@
             "commoner",
             "Limited:HNT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/cindra.heic"
     },
     {
         "id": "cindra-dracai-of-retribution",
@@ -412,7 +439,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/cindra-dracai-of-retribution.heic"
     },
     {
         "id": "dash",
@@ -427,7 +455,8 @@
             "commoner",
             "Limited:ARC",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dash.heic"
     },
     {
         "id": "dash-io",
@@ -440,7 +469,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dash-io.heic"
     },
     {
         "id": "dash-database",
@@ -456,7 +486,8 @@
             "commoner",
             "Limited:EVO",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dash-database.heic"
     },
     {
         "id": "dash-inventor-extraordinaire",
@@ -469,7 +500,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dash-inventor-extraordinaire.heic"
     },
     {
         "id": "data-doll-mkii",
@@ -484,7 +516,8 @@
             "blitz",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/data-doll-mkii.heic"
     },
     {
         "id": "dorinthea",
@@ -500,7 +533,8 @@
             "commoner",
             "Limited:WTR",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dorinthea.heic"
     },
     {
         "id": "dorinthea-ironsong",
@@ -513,7 +547,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dorinthea-ironsong.heic"
     },
     {
         "id": "dorinthea-quicksilver-prodigy",
@@ -528,7 +563,8 @@
             "blitz",
             "upf",
             "Boxed:DVR"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dorinthea-quicksilver-prodigy.heic"
     },
     {
         "id": "dromai",
@@ -545,7 +581,8 @@
             "commoner",
             "Limited:UPR",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dromai.heic"
     },
     {
         "id": "dromai-ash-artist",
@@ -558,7 +595,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/dromai-ash-artist.heic"
     },
     {
         "id": "emperor-dracai-of-aesir",
@@ -575,7 +613,8 @@
         "formats": [
             "blitz",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/emperor-dracai-of-aesir.heic"
     },
     {
         "id": "enigma",
@@ -592,7 +631,8 @@
             "commoner",
             "Limited:MST",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/enigma.heic"
     },
     {
         "id": "enigma-ledger-of-ancestry",
@@ -605,7 +645,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/enigma-ledger-of-ancestry.heic"
     },
     {
         "id": "enigma-new-moon",
@@ -620,7 +661,8 @@
         "formats": [
             "blitz",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/enigma-new-moon.heic"
     },
     {
         "id": "fai",
@@ -637,7 +679,8 @@
             "commoner",
             "Limited:UPR",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/fai.heic"
     },
     {
         "id": "fai-rising-rebellion",
@@ -651,7 +694,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/fai-rising-rebellion.heic"
     },
     {
         "id": "fang",
@@ -669,7 +713,8 @@
             "commoner",
             "Limited:HNT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/fang.heic"
     },
     {
         "id": "fang-dracai-of-blades",
@@ -684,7 +729,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/fang-dracai-of-blades.heic"
     },
     {
         "id": "fightmaster-kox",
@@ -698,7 +744,8 @@
         "formats": [
             "upf",
             "Boxed:SMP"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/fightmaster-kox.heic"
     },
     {
         "id": "florian",
@@ -715,7 +762,8 @@
             "commoner",
             "Limited:ROS",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/florian.heic"
     },
     {
         "id": "florian-rotwood-harbinger",
@@ -729,7 +777,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/florian-rotwood-harbinger.heic"
     },
     {
         "id": "genis-wotchuneed",
@@ -743,7 +792,8 @@
         "formats": [
             "blitz",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/genis-wotchuneed.heic"
     },
     {
         "id": "gravy-bones",
@@ -760,7 +810,8 @@
             "commoner",
             "Limited:SEA",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/gravy-bones.heic"
     },
     {
         "id": "gravy-bones-shipwrecked-looter",
@@ -774,7 +825,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/gravy-bones-shipwrecked-looter.heic"
     },
     {
         "id": "groundbreaker-crix",
@@ -788,7 +840,8 @@
         "formats": [
             "upf",
             "Boxed:SMP"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/groundbreaker-crix.heic"
     },
     {
         "id": "ira-crimson-haze",
@@ -803,7 +856,8 @@
             "Boxed:TCC",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/ira-crimson-haze.heic"
     },
     {
         "id": "ira-scarlet-revenger",
@@ -816,7 +870,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/ira-scarlet-revenger.heic"
     },
     {
         "id": "iyslander",
@@ -832,7 +887,8 @@
             "commoner",
             "Limited:UPR",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/iyslander.heic"
     },
     {
         "id": "iyslander-stormbind",
@@ -845,7 +901,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/iyslander-stormbind.heic"
     },
     {
         "id": "jarl-vetreii",
@@ -859,7 +916,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/jarl-vetreii.heic"
     },
     {
         "id": "kano",
@@ -874,7 +932,8 @@
             "commoner",
             "Limited:ARC",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kano.heic"
     },
     {
         "id": "kano-dracai-of-aether",
@@ -887,7 +946,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kano-dracai-of-aether.heic"
     },
     {
         "id": "kassai",
@@ -903,7 +963,8 @@
             "commoner",
             "Limited:HVY",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kassai.heic"
     },
     {
         "id": "kassai-of-the-golden-sand",
@@ -916,7 +977,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kassai-of-the-golden-sand.heic"
     },
     {
         "id": "kassai-cintari-sellsword",
@@ -930,7 +992,8 @@
         "formats": [
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kassai-cintari-sellsword.heic"
     },
     {
         "id": "katsu",
@@ -947,7 +1010,8 @@
             "Limited:OUT",
             "Limited:WTR",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/katsu.heic"
     },
     {
         "id": "katsu-the-wanderer",
@@ -960,7 +1024,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/katsu-the-wanderer.heic"
     },
     {
         "id": "kavdaen-trader-of-skins",
@@ -975,7 +1040,8 @@
             "blitz",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kavdaen-trader-of-skins.heic"
     },
     {
         "id": "kayo",
@@ -991,7 +1057,8 @@
             "commoner",
             "Limited:HVY",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kayo.heic"
     },
     {
         "id": "kayo-armed-and-dangerous",
@@ -1004,7 +1071,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kayo-armed-and-dangerous.heic"
     },
     {
         "id": "kayo-berserker-runt",
@@ -1019,7 +1087,8 @@
             "blitz",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kayo-berserker-runt.heic"
     },
     {
         "id": "kayo-underhanded-cheat",
@@ -1033,7 +1102,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/kayo-underhanded-cheat.heic"
     },
     {
         "id": "levia",
@@ -1050,7 +1120,8 @@
             "commoner",
             "Limited:MON",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/levia.heic"
     },
     {
         "id": "levia-shadowborn-abomination",
@@ -1064,7 +1135,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/levia-shadowborn-abomination.heic"
     },
     {
         "id": "lexi",
@@ -1081,7 +1153,8 @@
             "commoner",
             "Limited:ELE",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/lexi.heic"
     },
     {
         "id": "lexi-livewire",
@@ -1094,7 +1167,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/lexi-livewire.heic"
     },
     {
         "id": "lyath-goldmane-vile-savant",
@@ -1108,7 +1182,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/lyath-goldmane-vile-savant.heic"
     },
     {
         "id": "marlynn",
@@ -1125,7 +1200,8 @@
             "commoner",
             "Limited:SEA",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/marlynn.heic"
     },
     {
         "id": "marlynn-treasure-hunter",
@@ -1139,7 +1215,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/marlynn-treasure-hunter.heic"
     },
     {
         "id": "maxx-the-hype-nitro",
@@ -1152,7 +1229,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/maxx-the-hype-nitro.heic"
     },
     {
         "id": "maxx-nitro",
@@ -1168,7 +1246,8 @@
             "commoner",
             "Limited:EVO",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/maxx-nitro.heic"
     },
     {
         "id": "melody-singalong",
@@ -1183,7 +1262,8 @@
             "blitz",
             "Boxed:TCC",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/melody-singalong.heic"
     },
     {
         "id": "nuu",
@@ -1200,7 +1280,8 @@
             "commoner",
             "Limited:MST",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/nuu.heic"
     },
     {
         "id": "nuu-alluring-desire",
@@ -1214,7 +1295,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/nuu-alluring-desire.heic"
     },
     {
         "id": "oldhim",
@@ -1230,7 +1312,8 @@
             "commoner",
             "Limited:ELE",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/oldhim.heic"
     },
     {
         "id": "oldhim-grandfather-of-eternity",
@@ -1243,7 +1326,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/oldhim-grandfather-of-eternity.heic"
     },
     {
         "id": "olympia",
@@ -1259,7 +1343,8 @@
             "commoner",
             "Limited:HVY",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/olympia.heic"
     },
     {
         "id": "olympia-prized-fighter",
@@ -1272,7 +1357,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/olympia-prized-fighter.heic"
     },
     {
         "id": "oscilio",
@@ -1289,7 +1375,8 @@
             "commoner",
             "Limited:ROS",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/oscilio.heic"
     },
     {
         "id": "oscilio-constella-intelligence",
@@ -1303,7 +1390,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/oscilio-constella-intelligence.heic"
     },
     {
         "id": "pleiades-superstar",
@@ -1317,7 +1405,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/pleiades-superstar.heic"
     },
     {
         "id": "prism",
@@ -1334,7 +1423,8 @@
             "commoner",
             "Limited:MON",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/prism.heic"
     },
     {
         "id": "prism-advent-of-thrones",
@@ -1349,7 +1439,8 @@
         "formats": [
             "blitz",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/prism-advent-of-thrones.heic"
     },
     {
         "id": "prism-awakener-of-sol",
@@ -1363,7 +1454,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/prism-awakener-of-sol.heic"
     },
     {
         "id": "prism-sculptor-of-arc-light",
@@ -1376,7 +1468,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/prism-sculptor-of-arc-light.heic"
     },
     {
         "id": "professor-teklovossen",
@@ -1391,7 +1484,8 @@
             "blitz",
             "Boxed:TCC",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/professor-teklovossen.heic"
     },
     {
         "id": "puffin",
@@ -1408,7 +1502,8 @@
             "commoner",
             "Limited:SEA",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/puffin.heic"
     },
     {
         "id": "puffin-hightail",
@@ -1422,7 +1517,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/puffin-hightail.heic"
     },
     {
         "id": "reya-the-unyielding",
@@ -1436,7 +1532,8 @@
         "formats": [
             "upf",
             "Boxed:SMP"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/reya-the-unyielding.heic"
     },
     {
         "id": "rhinar",
@@ -1453,7 +1550,8 @@
             "Limited:HVY",
             "Limited:WTR",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/rhinar.heic"
     },
     {
         "id": "rhinar-reckless-rampage",
@@ -1466,7 +1564,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/rhinar-reckless-rampage.heic"
     },
     {
         "id": "riptide",
@@ -1482,7 +1581,8 @@
             "commoner",
             "Limited:OUT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/riptide.heic"
     },
     {
         "id": "riptide-lurker-of-the-deep",
@@ -1495,7 +1595,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/riptide-lurker-of-the-deep.heic"
     },
     {
         "id": "ruudi-gem-keeper",
@@ -1505,7 +1606,8 @@
             "Hero",
             "Merchant"
         ],
-        "formats": []
+        "formats": [],
+        "image_url": "https://pitch-life.github.io/images/ruudi-gem-keeper.heic"
     },
     {
         "id": "scurv-stowaway",
@@ -1522,7 +1624,8 @@
             "upf",
             "commoner",
             "Limited:SEA"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/scurv-stowaway.heic"
     },
     {
         "id": "ser-boltyn-breaker-of-dawn",
@@ -1536,7 +1639,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/ser-boltyn-breaker-of-dawn.heic"
     },
     {
         "id": "shiyana-diamond-gemini",
@@ -1550,7 +1654,8 @@
         "formats": [
             "blitz",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/shiyana-diamond-gemini.heic"
     },
     {
         "id": "squizzy--floof",
@@ -1563,7 +1668,8 @@
         ],
         "formats": [
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/squizzy--floof.heic"
     },
     {
         "id": "taipanis-dracai-of-judgement",
@@ -1576,7 +1682,8 @@
         ],
         "formats": [
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/taipanis-dracai-of-judgement.heic"
     },
     {
         "id": "taylor",
@@ -1589,7 +1696,8 @@
         ],
         "formats": [
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/taylor.heic"
     },
     {
         "id": "teklovossen",
@@ -1605,7 +1713,8 @@
             "commoner",
             "Limited:EVO",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/teklovossen.heic"
     },
     {
         "id": "teklovossen-esteemed-magnate",
@@ -1618,7 +1727,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/teklovossen-esteemed-magnate.heic"
     },
     {
         "id": "terra",
@@ -1634,7 +1744,8 @@
             "blitz",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/terra.heic"
     },
     {
         "id": "theryon-magister-of-justice",
@@ -1647,7 +1758,8 @@
         ],
         "formats": [
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/theryon-magister-of-justice.heic"
     },
     {
         "id": "tuffnut-bumbling-hulkster",
@@ -1661,7 +1773,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/tuffnut-bumbling-hulkster.heic"
     },
     {
         "id": "uzuri",
@@ -1677,7 +1790,8 @@
             "commoner",
             "Limited:OUT",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/uzuri.heic"
     },
     {
         "id": "uzuri-switchblade",
@@ -1690,7 +1804,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/uzuri-switchblade.heic"
     },
     {
         "id": "valda-brightaxe",
@@ -1705,7 +1820,8 @@
             "blitz",
             "Limited:MPG",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/valda-brightaxe.heic"
     },
     {
         "id": "valda-seismic-impact",
@@ -1718,7 +1834,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/valda-seismic-impact.heic"
     },
     {
         "id": "verdance",
@@ -1735,7 +1852,8 @@
             "commoner",
             "Limited:ROS",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/verdance.heic"
     },
     {
         "id": "verdance-thorn-of-the-rose",
@@ -1749,7 +1867,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/verdance-thorn-of-the-rose.heic"
     },
     {
         "id": "victor-goldmane",
@@ -1764,7 +1883,8 @@
             "commoner",
             "Limited:HVY",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/victor-goldmane.heic"
     },
     {
         "id": "victor-goldmane-high-and-mighty",
@@ -1777,7 +1897,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/victor-goldmane-high-and-mighty.heic"
     },
     {
         "id": "victor-goldmane-match-fixer",
@@ -1791,7 +1912,8 @@
         "formats": [
             "upf",
             "Boxed:SMP"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/victor-goldmane-match-fixer.heic"
     },
     {
         "id": "viserai",
@@ -1806,7 +1928,8 @@
             "commoner",
             "Limited:ARC",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/viserai.heic"
     },
     {
         "id": "viserai-rune-blood",
@@ -1818,7 +1941,8 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/viserai-rune-blood.heic"
     },
     {
         "id": "vynnset",
@@ -1834,7 +1958,8 @@
             "blitz",
             "commoner",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/vynnset.heic"
     },
     {
         "id": "vynnset-iron-maiden",
@@ -1848,7 +1973,8 @@
         "formats": [
             "cc",
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/vynnset-iron-maiden.heic"
     },
     {
         "id": "yoji-royal-protector",
@@ -1862,7 +1988,8 @@
         "formats": [
             "blitz",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/yoji-royal-protector.heic"
     },
     {
         "id": "yorick-weaver-of-tales",
@@ -1873,7 +2000,8 @@
             "Hero",
             "Young"
         ],
-        "formats": []
+        "formats": [],
+        "image_url": "https://pitch-life.github.io/images/yorick-weaver-of-tales.heic"
     },
     {
         "id": "zen",
@@ -1890,7 +2018,8 @@
             "commoner",
             "Limited:MST",
             "upf"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/zen.heic"
     },
     {
         "id": "zen-tamer-of-purpose",
@@ -1903,6 +2032,7 @@
         ],
         "formats": [
             "ll"
-        ]
+        ],
+        "image_url": "https://pitch-life.github.io/images/zen-tamer-of-purpose.heic"
     }
 ]
