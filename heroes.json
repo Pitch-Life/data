@@ -1,0 +1,1852 @@
+[
+    {
+        "id": "arakni",
+        "name": "Arakni",
+        "health": 20,
+        "types": [
+            "Assassin",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "arakni-5lp3d-7hru-7h3-cr4x",
+        "name": "Arakni, 5L!p3d 7hRu 7h3 cR4X",
+        "health": 38,
+        "types": [
+            "Assassin",
+            "Chaos",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "arakni-huntsman",
+        "name": "Arakni, Huntsman",
+        "health": 40,
+        "types": [
+            "Assassin",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "arakni-marionette",
+        "name": "Arakni, Marionette",
+        "health": 40,
+        "types": [
+            "Assassin",
+            "Chaos",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "arakni-solitary-confinement",
+        "name": "Arakni, Solitary Confinement",
+        "health": 19,
+        "types": [
+            "Assassin",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OUT",
+            "upf"
+        ]
+    },
+    {
+        "id": "arakni-web-of-deceit",
+        "name": "Arakni, Web of Deceit",
+        "health": 20,
+        "types": [
+            "Assassin",
+            "Chaos",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:HNT",
+            "upf"
+        ]
+    },
+    {
+        "id": "aurora",
+        "name": "Aurora",
+        "health": 20,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Runeblade",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:ROS",
+            "upf"
+        ]
+    },
+    {
+        "id": "aurora-shooting-star",
+        "name": "Aurora, Shooting Star",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Runeblade"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "azalea",
+        "name": "Azalea",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Ranger",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:ARC",
+            "Limited:OUT",
+            "upf"
+        ]
+    },
+    {
+        "id": "azalea-ace-in-the-hole",
+        "name": "Azalea, Ace in the Hole",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Ranger"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "benji-the-piercing-wind",
+        "name": "Benji, the Piercing Wind",
+        "health": 17,
+        "types": [
+            "Hero",
+            "Ninja",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OUT",
+            "upf"
+        ]
+    },
+    {
+        "id": "betsy",
+        "name": "Betsy",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:HVY",
+            "upf"
+        ]
+    },
+    {
+        "id": "betsy-skin-in-the-game",
+        "name": "Betsy, Skin in the Game",
+        "health": 40,
+        "types": [
+            "Guardian",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "blaze-firemind",
+        "name": "Blaze, Firemind",
+        "health": 17,
+        "types": [
+            "Wizard",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf"
+        ]
+    },
+    {
+        "id": "bolfar-bear-hands",
+        "name": "Bolfar, Bear Hands",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Pit-Fighter"
+        ],
+        "formats": [
+            "upf",
+            "Boxed:SMP"
+        ]
+    },
+    {
+        "id": "boltyn",
+        "name": "Boltyn",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Light",
+            "Warrior",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MON",
+            "upf"
+        ]
+    },
+    {
+        "id": "bravo",
+        "name": "Bravo",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:WTR",
+            "upf"
+        ]
+    },
+    {
+        "id": "bravo-flattering-showman",
+        "name": "Bravo, Flattering Showman",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "Boxed:SMP",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "bravo-showstopper",
+        "name": "Bravo, Showstopper",
+        "health": 40,
+        "types": [
+            "Guardian",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "bravo-star-of-the-show",
+        "name": "Bravo, Star of the Show",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Guardian",
+            "Hero"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "brevant-civic-protector",
+        "name": "Brevant, Civic Protector",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "Boxed:TCC",
+            "upf"
+        ]
+    },
+    {
+        "id": "briar",
+        "name": "Briar",
+        "health": 20,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Runeblade",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:ELE",
+            "upf"
+        ]
+    },
+    {
+        "id": "briar-warden-of-thorns",
+        "name": "Briar, Warden of Thorns",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Runeblade"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "brutus-summa-rudis",
+        "name": "Brutus, Summa Rudis",
+        "health": 20,
+        "types": [
+            "Adjudicator",
+            "Hero"
+        ],
+        "formats": [
+            "upf"
+        ]
+    },
+    {
+        "id": "chane",
+        "name": "Chane",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Runeblade",
+            "Shadow",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:MON",
+            "upf"
+        ]
+    },
+    {
+        "id": "chane-bound-by-shadow",
+        "name": "Chane, Bound by Shadow",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Runeblade",
+            "Shadow"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "cindra",
+        "name": "Cindra",
+        "health": 20,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Ninja",
+            "Royal",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:HNT",
+            "upf"
+        ]
+    },
+    {
+        "id": "cindra-dracai-of-retribution",
+        "name": "Cindra, Dracai of Retribution",
+        "health": 40,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Ninja",
+            "Royal"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "dash",
+        "name": "Dash",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:ARC",
+            "upf"
+        ]
+    },
+    {
+        "id": "dash-io",
+        "name": "Dash I/O",
+        "health": 36,
+        "types": [
+            "Hero",
+            "Mechanologist"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "dash-database",
+        "name": "Dash, Database",
+        "health": 18,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:EVO",
+            "upf"
+        ]
+    },
+    {
+        "id": "dash-inventor-extraordinaire",
+        "name": "Dash, Inventor Extraordinaire",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Mechanologist"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "data-doll-mkii",
+        "name": "Data Doll MKII",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "dorinthea",
+        "name": "Dorinthea",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Warrior",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:WTR",
+            "upf"
+        ]
+    },
+    {
+        "id": "dorinthea-ironsong",
+        "name": "Dorinthea Ironsong",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Warrior"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "dorinthea-quicksilver-prodigy",
+        "name": "Dorinthea, Quicksilver Prodigy",
+        "health": 20,
+        "types": [
+            "Warrior",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf",
+            "Boxed:DVR"
+        ]
+    },
+    {
+        "id": "dromai",
+        "name": "Dromai",
+        "health": 20,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Illusionist",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:UPR",
+            "upf"
+        ]
+    },
+    {
+        "id": "dromai-ash-artist",
+        "name": "Dromai, Ash Artist",
+        "health": 40,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Illusionist"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "emperor-dracai-of-aesir",
+        "name": "Emperor, Dracai of Aesir",
+        "health": 15,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Royal",
+            "Warrior",
+            "Wizard",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf"
+        ]
+    },
+    {
+        "id": "enigma",
+        "name": "Enigma",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Mystic",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MST",
+            "upf"
+        ]
+    },
+    {
+        "id": "enigma-ledger-of-ancestry",
+        "name": "Enigma, Ledger of Ancestry",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Mystic"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "enigma-new-moon",
+        "name": "Enigma, New Moon",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Mystic",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf"
+        ]
+    },
+    {
+        "id": "fai",
+        "name": "Fai",
+        "health": 20,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Ninja",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:UPR",
+            "upf"
+        ]
+    },
+    {
+        "id": "fai-rising-rebellion",
+        "name": "Fai, Rising Rebellion",
+        "health": 40,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Ninja"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "fang",
+        "name": "Fang",
+        "health": 20,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Royal",
+            "Warrior",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:HNT",
+            "upf"
+        ]
+    },
+    {
+        "id": "fang-dracai-of-blades",
+        "name": "Fang, Dracai of Blades",
+        "health": 40,
+        "types": [
+            "Draconic",
+            "Hero",
+            "Royal",
+            "Warrior"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "fightmaster-kox",
+        "name": "Fightmaster Kox",
+        "health": 19,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Pit-Fighter"
+        ],
+        "formats": [
+            "upf",
+            "Boxed:SMP"
+        ]
+    },
+    {
+        "id": "florian",
+        "name": "Florian",
+        "health": 20,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Runeblade",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:ROS",
+            "upf"
+        ]
+    },
+    {
+        "id": "florian-rotwood-harbinger",
+        "name": "Florian, Rotwood Harbinger",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Runeblade"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "genis-wotchuneed",
+        "name": "Genis Wotchuneed",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Merchant",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf"
+        ]
+    },
+    {
+        "id": "gravy-bones",
+        "name": "Gravy Bones",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Necromancer",
+            "Pirate",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:SEA",
+            "upf"
+        ]
+    },
+    {
+        "id": "gravy-bones-shipwrecked-looter",
+        "name": "Gravy Bones, Shipwrecked Looter",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Necromancer",
+            "Pirate"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "groundbreaker-crix",
+        "name": "Groundbreaker Crix",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Pit-Fighter"
+        ],
+        "formats": [
+            "upf",
+            "Boxed:SMP"
+        ]
+    },
+    {
+        "id": "ira-crimson-haze",
+        "name": "Ira, Crimson Haze",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Ninja",
+            "Young"
+        ],
+        "formats": [
+            "Boxed:TCC",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "ira-scarlet-revenger",
+        "name": "Ira, Scarlet Revenger",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Ninja"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "iyslander",
+        "name": "Iyslander",
+        "health": 18,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Wizard",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:UPR",
+            "upf"
+        ]
+    },
+    {
+        "id": "iyslander-stormbind",
+        "name": "Iyslander, Stormbind",
+        "health": 36,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Wizard"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "jarl-vetreii",
+        "name": "Jarl Vetrei\u00f0i",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Guardian",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "kano",
+        "name": "Kano",
+        "health": 15,
+        "types": [
+            "Hero",
+            "Wizard",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:ARC",
+            "upf"
+        ]
+    },
+    {
+        "id": "kano-dracai-of-aether",
+        "name": "Kano, Dracai of Aether",
+        "health": 30,
+        "types": [
+            "Hero",
+            "Wizard"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "kassai",
+        "name": "Kassai",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Warrior",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:HVY",
+            "upf"
+        ]
+    },
+    {
+        "id": "kassai-of-the-golden-sand",
+        "name": "Kassai of the Golden Sand",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Warrior"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "kassai-cintari-sellsword",
+        "name": "Kassai, Cintari Sellsword",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Warrior",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "katsu",
+        "name": "Katsu",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Ninja",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OUT",
+            "Limited:WTR",
+            "upf"
+        ]
+    },
+    {
+        "id": "katsu-the-wanderer",
+        "name": "Katsu, the Wanderer",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Ninja"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "kavdaen-trader-of-skins",
+        "name": "Kavdaen, Trader of Skins",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Merchant",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "kayo",
+        "name": "Kayo",
+        "health": 20,
+        "types": [
+            "Brute",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:HVY",
+            "upf"
+        ]
+    },
+    {
+        "id": "kayo-armed-and-dangerous",
+        "name": "Kayo, Armed and Dangerous",
+        "health": 40,
+        "types": [
+            "Brute",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "kayo-berserker-runt",
+        "name": "Kayo, Berserker Runt",
+        "health": 19,
+        "types": [
+            "Brute",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "levia",
+        "name": "Levia",
+        "health": 20,
+        "types": [
+            "Brute",
+            "Hero",
+            "Shadow",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MON",
+            "upf"
+        ]
+    },
+    {
+        "id": "levia-shadowborn-abomination",
+        "name": "Levia, Shadowborn Abomination",
+        "health": 40,
+        "types": [
+            "Brute",
+            "Hero",
+            "Shadow"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "lexi",
+        "name": "Lexi",
+        "health": 20,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Ranger",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:ELE",
+            "upf"
+        ]
+    },
+    {
+        "id": "lexi-livewire",
+        "name": "Lexi, Livewire",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Ranger"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "marlynn",
+        "name": "Marlynn",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Pirate",
+            "Ranger",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:SEA",
+            "upf"
+        ]
+    },
+    {
+        "id": "marlynn-treasure-hunter",
+        "name": "Marlynn, Treasure Hunter",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Pirate",
+            "Ranger"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "maxx-the-hype-nitro",
+        "name": "Maxx 'The Hype' Nitro",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Mechanologist"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "maxx-nitro",
+        "name": "Maxx Nitro",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:EVO",
+            "upf"
+        ]
+    },
+    {
+        "id": "melody-singalong",
+        "name": "Melody, Sing-along",
+        "health": 20,
+        "types": [
+            "Bard",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "Boxed:TCC",
+            "upf"
+        ]
+    },
+    {
+        "id": "nuu",
+        "name": "Nuu",
+        "health": 20,
+        "types": [
+            "Assassin",
+            "Hero",
+            "Mystic",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MST",
+            "upf"
+        ]
+    },
+    {
+        "id": "nuu-alluring-desire",
+        "name": "Nuu, Alluring Desire",
+        "health": 40,
+        "types": [
+            "Assassin",
+            "Hero",
+            "Mystic"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "oldhim",
+        "name": "Oldhim",
+        "health": 20,
+        "types": [
+            "Elemental",
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:ELE",
+            "upf"
+        ]
+    },
+    {
+        "id": "oldhim-grandfather-of-eternity",
+        "name": "Oldhim, Grandfather of Eternity",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Guardian",
+            "Hero"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "olympia",
+        "name": "Olympia",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Warrior",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:HVY",
+            "upf"
+        ]
+    },
+    {
+        "id": "olympia-prized-fighter",
+        "name": "Olympia, Prized Fighter",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Warrior"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "oscilio",
+        "name": "Oscilio",
+        "health": 18,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Wizard",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:ROS",
+            "upf"
+        ]
+    },
+    {
+        "id": "oscilio-constella-intelligence",
+        "name": "Oscilio, Constella Intelligence",
+        "health": 36,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Wizard"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "prism",
+        "name": "Prism",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Light",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MON",
+            "upf"
+        ]
+    },
+    {
+        "id": "prism-advent-of-thrones",
+        "name": "Prism, Advent of Thrones",
+        "health": 16,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Light",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf"
+        ]
+    },
+    {
+        "id": "prism-awakener-of-sol",
+        "name": "Prism, Awakener of Sol",
+        "health": 32,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Light"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "prism-sculptor-of-arc-light",
+        "name": "Prism, Sculptor of Arc Light",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Light"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "professor-teklovossen",
+        "name": "Professor Teklovossen",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "Boxed:TCC",
+            "upf"
+        ]
+    },
+    {
+        "id": "puffin",
+        "name": "Puffin",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Pirate",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:SEA",
+            "upf"
+        ]
+    },
+    {
+        "id": "puffin-hightail",
+        "name": "Puffin, Hightail",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Pirate"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "reya-the-unyielding",
+        "name": "Reya, the Unyielding",
+        "health": 21,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Pit-Fighter"
+        ],
+        "formats": [
+            "upf",
+            "Boxed:SMP"
+        ]
+    },
+    {
+        "id": "rhinar",
+        "name": "Rhinar",
+        "health": 20,
+        "types": [
+            "Brute",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "Boxed:DVR",
+            "commoner",
+            "Limited:HVY",
+            "Limited:WTR",
+            "upf"
+        ]
+    },
+    {
+        "id": "rhinar-reckless-rampage",
+        "name": "Rhinar, Reckless Rampage",
+        "health": 40,
+        "types": [
+            "Brute",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "riptide",
+        "name": "Riptide",
+        "health": 19,
+        "types": [
+            "Hero",
+            "Ranger",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OUT",
+            "upf"
+        ]
+    },
+    {
+        "id": "riptide-lurker-of-the-deep",
+        "name": "Riptide, Lurker of the Deep",
+        "health": 38,
+        "types": [
+            "Hero",
+            "Ranger"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "ruudi-gem-keeper",
+        "name": "Ruu'di, Gem Keeper",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Merchant"
+        ],
+        "formats": []
+    },
+    {
+        "id": "scurv-stowaway",
+        "name": "Scurv, Stowaway",
+        "health": 20,
+        "types": [
+            "Pirate",
+            "Thief",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf",
+            "commoner",
+            "Limited:SEA"
+        ]
+    },
+    {
+        "id": "ser-boltyn-breaker-of-dawn",
+        "name": "Ser Boltyn, Breaker of Dawn",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Light",
+            "Warrior"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "shiyana-diamond-gemini",
+        "name": "Shiyana, Diamond Gemini",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Shapeshifter",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf"
+        ]
+    },
+    {
+        "id": "squizzy--floof",
+        "name": "Squizzy & Floof",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Merchant",
+            "Young"
+        ],
+        "formats": [
+            "upf"
+        ]
+    },
+    {
+        "id": "taipanis-dracai-of-judgement",
+        "name": "Taipanis, Dracai of Judgement",
+        "health": 20,
+        "types": [
+            "Adjudicator",
+            "Draconic",
+            "Hero"
+        ],
+        "formats": [
+            "upf"
+        ]
+    },
+    {
+        "id": "taylor",
+        "name": "Taylor",
+        "health": 18,
+        "types": [
+            "Hero",
+            "Shapeshifter",
+            "Young"
+        ],
+        "formats": [
+            "upf"
+        ]
+    },
+    {
+        "id": "teklovossen",
+        "name": "Teklovossen",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Mechanologist",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:EVO",
+            "upf"
+        ]
+    },
+    {
+        "id": "teklovossen-esteemed-magnate",
+        "name": "Teklovossen, Esteemed Magnate",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Mechanologist"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "terra",
+        "name": "Terra",
+        "health": 20,
+        "types": [
+            "Elemental",
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "theryon-magister-of-justice",
+        "name": "Theryon, Magister of Justice",
+        "health": 20,
+        "types": [
+            "Adjudicator",
+            "Hero",
+            "Light"
+        ],
+        "formats": [
+            "upf"
+        ]
+    },
+    {
+        "id": "uzuri",
+        "name": "Uzuri",
+        "health": 20,
+        "types": [
+            "Assassin",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OUT",
+            "upf"
+        ]
+    },
+    {
+        "id": "uzuri-switchblade",
+        "name": "Uzuri, Switchblade",
+        "health": 40,
+        "types": [
+            "Assassin",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "valda-brightaxe",
+        "name": "Valda Brightaxe",
+        "health": 21,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "Limited:MPG",
+            "upf"
+        ]
+    },
+    {
+        "id": "valda-seismic-impact",
+        "name": "Valda, Seismic Impact",
+        "health": 40,
+        "types": [
+            "Guardian",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "verdance",
+        "name": "Verdance",
+        "health": 20,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Wizard",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:ROS",
+            "upf"
+        ]
+    },
+    {
+        "id": "verdance-thorn-of-the-rose",
+        "name": "Verdance, Thorn of the Rose",
+        "health": 40,
+        "types": [
+            "Elemental",
+            "Hero",
+            "Wizard"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "victor-goldmane",
+        "name": "Victor Goldmane",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:HVY",
+            "upf"
+        ]
+    },
+    {
+        "id": "victor-goldmane-high-and-mighty",
+        "name": "Victor Goldmane, High and Mighty",
+        "health": 40,
+        "types": [
+            "Guardian",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "victor-goldmane-match-fixer",
+        "name": "Victor Goldmane, Match Fixer",
+        "health": 20,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Pit-Fighter"
+        ],
+        "formats": [
+            "upf",
+            "Boxed:SMP"
+        ]
+    },
+    {
+        "id": "viserai",
+        "name": "Viserai",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Runeblade",
+            "Young"
+        ],
+        "formats": [
+            "commoner",
+            "Limited:ARC",
+            "upf"
+        ]
+    },
+    {
+        "id": "viserai-rune-blood",
+        "name": "Viserai, Rune Blood",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Runeblade"
+        ],
+        "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "vynnset",
+        "name": "Vynnset",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Runeblade",
+            "Shadow",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "upf"
+        ]
+    },
+    {
+        "id": "vynnset-iron-maiden",
+        "name": "Vynnset, Iron Maiden",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Runeblade",
+            "Shadow"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "yoji-royal-protector",
+        "name": "Yoji, Royal Protector",
+        "health": 22,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf"
+        ]
+    },
+    {
+        "id": "yorick-weaver-of-tales",
+        "name": "Yorick, Weaver of Tales",
+        "health": 20,
+        "types": [
+            "Bard",
+            "Hero",
+            "Young"
+        ],
+        "formats": []
+    },
+    {
+        "id": "zen",
+        "name": "Zen",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Mystic",
+            "Ninja",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MST",
+            "upf"
+        ]
+    },
+    {
+        "id": "zen-tamer-of-purpose",
+        "name": "Zen, Tamer of Purpose",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Mystic",
+            "Ninja"
+        ],
+        "formats": [
+            "ll"
+        ]
+    }
+]
