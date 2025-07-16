@@ -76,7 +76,8 @@ def process(item):
         'formats': formats(item),
     }
 
-url = 'https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/refs/heads/main/json/english/card-flattened.json'
+branch = 'super-slam'
+url = f'https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/refs/heads/{branch}/json/english/card-flattened.json'
 data = None
 
 with urllib.request.urlopen(url) as content:

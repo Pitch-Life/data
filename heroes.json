@@ -1022,6 +1022,20 @@
         ]
     },
     {
+        "id": "kayo-underhanded-cheat",
+        "name": "Kayo, Underhanded Cheat",
+        "health": 40,
+        "types": [
+            "Brute",
+            "Hero",
+            "Reviled"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
         "id": "levia",
         "name": "Levia",
         "health": 20,
@@ -1079,6 +1093,20 @@
             "Ranger"
         ],
         "formats": [
+            "ll"
+        ]
+    },
+    {
+        "id": "lyath-goldmane-vile-savant",
+        "name": "Lyath Goldmane, Vile Savant",
+        "health": 40,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Reviled"
+        ],
+        "formats": [
+            "cc",
             "ll"
         ]
     },
@@ -1271,6 +1299,20 @@
             "Elemental",
             "Hero",
             "Wizard"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ]
+    },
+    {
+        "id": "pleiades-superstar",
+        "name": "Pleiades, Superstar",
+        "health": 40,
+        "types": [
+            "Guardian",
+            "Hero",
+            "Revered"
         ],
         "formats": [
             "cc",
@@ -1605,6 +1647,20 @@
         ],
         "formats": [
             "upf"
+        ]
+    },
+    {
+        "id": "tuffnut-bumbling-hulkster",
+        "name": "Tuffnut, Bumbling Hulkster",
+        "health": 40,
+        "types": [
+            "Brute",
+            "Hero",
+            "Revered"
+        ],
+        "formats": [
+            "cc",
+            "ll"
         ]
     },
     {
