@@ -1091,21 +1091,6 @@
         "image_url": "https://pitch-life.github.io/images/kayo-berserker-runt.heic"
     },
     {
-        "id": "kayo-underhanded-cheat",
-        "name": "Kayo, Underhanded Cheat",
-        "health": 40,
-        "types": [
-            "Brute",
-            "Hero",
-            "Reviled"
-        ],
-        "formats": [
-            "cc",
-            "ll"
-        ],
-        "image_url": "https://pitch-life.github.io/images/kayo-underhanded-cheat.heic"
-    },
-    {
         "id": "levia",
         "name": "Levia",
         "health": 20,
@@ -1169,21 +1154,6 @@
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/lexi-livewire.heic"
-    },
-    {
-        "id": "lyath-goldmane-vile-savant",
-        "name": "Lyath Goldmane, Vile Savant",
-        "health": 40,
-        "types": [
-            "Guardian",
-            "Hero",
-            "Reviled"
-        ],
-        "formats": [
-            "cc",
-            "ll"
-        ],
-        "image_url": "https://pitch-life.github.io/images/lyath-goldmane-vile-savant.heic"
     },
     {
         "id": "marlynn",
@@ -1392,21 +1362,6 @@
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/oscilio-constella-intelligence.heic"
-    },
-    {
-        "id": "pleiades-superstar",
-        "name": "Pleiades, Superstar",
-        "health": 40,
-        "types": [
-            "Guardian",
-            "Hero",
-            "Revered"
-        ],
-        "formats": [
-            "cc",
-            "ll"
-        ],
-        "image_url": "https://pitch-life.github.io/images/pleiades-superstar.heic"
     },
     {
         "id": "prism",
@@ -1760,21 +1715,6 @@
             "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/theryon-magister-of-justice.heic"
-    },
-    {
-        "id": "tuffnut-bumbling-hulkster",
-        "name": "Tuffnut, Bumbling Hulkster",
-        "health": 40,
-        "types": [
-            "Brute",
-            "Hero",
-            "Revered"
-        ],
-        "formats": [
-            "cc",
-            "ll"
-        ],
-        "image_url": "https://pitch-life.github.io/images/tuffnut-bumbling-hulkster.heic"
     },
     {
         "id": "uzuri",
