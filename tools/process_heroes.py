@@ -16,7 +16,7 @@ limited_sets = [
     'HNT',
     'SEA',
     'MPG',
-    'SUP'
+    'SUP',
 ]
 
 boxed_sets = [
@@ -76,7 +76,7 @@ def process(item):
         'image_url': f'https://pitch-life.github.io/images/{hero_id}.heic'
     }
 
-branch = 'main'
+branch = 'super-slam'
 url = f'https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/refs/heads/{branch}/json/english/card-flattened.json'
 data = None
 
