@@ -117,5 +117,14 @@
   "puffin-hightail": "puffin",
   "puffin": "puffin-hightail",
   "marlynn-treasure-hunter": "marlynn",
-  "marlynn": "marlynn-treasure-hunter"
+  "marlynn": "marlynn-treasure-hunter",
+  "scurv-stowaway": null,
+  "tuffnut-bumbling-hulkster": "tuffnut",
+  "tuffnut": "tuffnut-bumbling-hulkster",
+  "pleiades-superstar": "pleiades",
+  "pleiades": "pleiades-superstar",
+  "lyath-goldmane-vile-savant": "lyath-goldmane",
+  "lyath-goldmane": "lyath-goldmane-vile-savant",
+  "kayo-strong-arm": "kayo-underhanded-cheat",
+  "kayo-underhanded-cheat": "kayo-strong-arm"
 }
