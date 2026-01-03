@@ -1,29 +1,33 @@
 import json
 import string
+import argparse
+import dataclasses
 import urllib.request
+from typing import List
 
-limited_sets = [
-    'WTR',
-    'ARC',
-    'MON',
-    'ELE',
-    'UPR',
-    'OUT',
-    'EVO',
-    'HVY',
-    'MST',
-    'ROS',
-    'HNT',
-    'SEA',
-    'MPG',
-    'SUP',
-]
+limited_sets = {
+    'WTR': 'WTR',
+    'ARC': 'ARC',
+    'MON': 'MON',
+    'ELE': 'ELE',
+    'UPR': 'UPR',
+    'OUT': 'OUT',
+    'EVO': 'EVO',
+    'HVY': 'HVY',
+    'MST': 'MST',
+    'ROS': 'ROS',
+    'HNT': 'HNT',
+    'SEA': 'SEA',
+    'MPG': 'MPG',
+    'SUP': 'SUP',
+}
 
-boxed_sets = [
-    'DVR',
-    'TCC',
-    'SMP',
-]
+boxed_sets = {
+    'DVR': 'DVR',
+    'RVD': 'DVR',
+    'TCC': 'TCC',
+    'SMP': 'SMP',
+}
 
 def merge(item1, item2):
     return {
@@ -32,40 +36,78 @@ def merge(item1, item2):
         'formats': sorted(list(set(item1['formats'] + item2['formats'])), key=str.lower),
     }
 
+def is_blitz_legal(item):
+    return item['blitz_legal'] and not item['blitz_banned'] and not item['blitz_suspended'] #  and not item['blitz_living_legend']:
+
+def is_cc_legal(item):
+    return item['cc_legal'] and not item['cc_living_legend'] and not item['cc_banned'] and not item['cc_suspended']
+
+def is_upf_legal(item):
+    return ('Young' in item['types'] or 'Adjudicator' in item['types'] or 'Pit-Fighter' in item['types']) and not item['upf_banned']
+
+def is_ll_legal(item):
+    return item['ll_legal'] and not item['ll_banned']
+
+def is_commoner_legal(item):
+    return item['commoner_legal'] and not item['commoner_banned']
+
+def is_sage_legal(item):
+    return item['silver_age_legal'] and not item['silver_age_banned']
+
+def is_limited_legal(item):
+    return ('Young' in item['types'] or 'Pit-Fighter' in item['types']) and item['rarity'] not in ['V', 'L']
+
 def formats(item):
     formats = []
-    if item['blitz_legal'] and not item['blitz_living_legend'] and not item['blitz_banned'] and not item['blitz_suspended']:
+
+    # Blitz
+    if is_blitz_legal(item):
         formats.append('blitz')
-    if item['cc_legal'] and not item['cc_living_legend'] and not item['cc_banned'] and not item['cc_suspended']:
+
+    # CC
+    if is_cc_legal(item):
         formats.append('cc')
-    if ('Young' in item['types'] or 'Adjudicator' in item['types'] or 'Pit-Fighter' in item['types']) and not item['upf_banned']:
+
+    # UPF
+    if is_upf_legal(item):
         formats.append('upf')
-    if item['ll_legal'] and not item['ll_banned']:
+
+    # LL
+    if is_ll_legal(item):
         formats.append('ll')
-    if item['commoner_legal'] and not item['commoner_banned']:
+
+    # Commoner
+    if is_commoner_legal(item):
         formats.append('commoner')
 
-    if ('Young' in item['types'] or 'Pit-Fighter' in item['types']) and item['rarity'] not in ['V', 'L']:
-        if item['set_id'] in limited_sets:
-            formats.append(f'Limited:{item['set_id']}')
+    # Silver Age
+    if is_sage_legal(item):
+        formats.append('sage')
+
+    # Limited
+    if is_limited_legal(item):
+        limited = limited_sets.get(item['set_id'], None)
+        if limited:
+            formats.append(f'Limited:{limited}')
         
-        if item['set_id'] in boxed_sets:
-            formats.append(f'Boxed:{item['set_id']}')
+        boxed = boxed_sets.get(item['set_id'], None)
+        if boxed:
+            formats.append(f'Boxed:{boxed}')
 
     # Fixup some known data issues
-    if normalize_hero_id(item) == 'rhinar' and ('Boxed:DVR' not in formats):
-        formats.append('Boxed:DVR')
-
-    if normalize_hero_id(item) == 'valda-brightaxe' and ('Limited:MPG' not in formats):
-        formats.append('Limited:MPG')
+    # if normalize_hero_id(item) == 'rhinar' and ('Boxed:DVR' not in formats):
+        # formats.append('Boxed:DVR')
     
     return formats
 
 def normalize_hero_id(item):
     hero_id = item['name'].translate(str.maketrans("","", string.punctuation)).replace(' ', '-').lower().encode('ascii', 'ignore').decode('ascii')
-    return hero_id
+    overrides = {
+        'kayo-strongarm': 'kayo-strong-arm'
+    }
+    return overrides.get(hero_id, hero_id)
 
-def process(item):
+def process_card(item):
     hero_id = normalize_hero_id(item)
     return {
         'id': hero_id,
@@ -76,26 +118,59 @@ def process(item):
         'image_url': f'https://pitch-life.github.io/images/{hero_id}.heic'
     }
 
-branch = 'super-slam'
-url = f'https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/refs/heads/{branch}/json/english/card-flattened.json'
-data = None
+def get_card_data(branch:str = 'main'):
+    url = f'https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/refs/heads/{branch}/json/english/card-flattened.json'
+    data = None
+    with urllib.request.urlopen(url) as content:
+        data = json.load(content)
 
-with urllib.request.urlopen(url) as content:
-    data = json.load(content)
+    with open('../res/card-flattened.json', 'w') as f:
+        json.dump(data, f, indent=4)
 
-processed = [process(x) for x in data]
-filtered = [x for x in processed if 'Hero' in x['types']]
+    return data
 
-mapping = {}
-for card in filtered:
-    other = mapping.get(card['id'])
-    if other is not None:
-        mapping[card['id']] = merge(other, card)
+def load_card_data():
+    with open('../res/card-flattened.json', 'r') as f:
+        return json.load(f)
+
+def process(data):
+    processed = [process_card(x) for x in data]
+    filtered = [x for x in processed if 'Hero' in x['types']]
+
+    mapping = {}
+    for card in filtered:
+        other = mapping.get(card['id'])
+        if other is not None:
+            mapping[card['id']] = merge(other, card)
+        else:
+            mapping[card['id']] = card
+    uniqued = list(mapping.values())
+    return uniqued
+
+def main():
+    parser = argparse.ArgumentParser(description="")
+    parser.add_argument(
+        "-b", "--branch",
+        default='develop',
+        help="Specify a specific branch for loading card data."
+    )
+    parser.add_argument(
+        "-c", "--use-cache",
+        action="store_true",
+        help="Use the cached card information instead of downloading it again."
+    )
+    args = parser.parse_args()
+
+    data = None
+    if args.use_cache:
+        data = load_card_data()
     else:
-        mapping[card['id']] = card
+        data = get_card_data(branch=args.branch)
 
-uniqued = list(mapping.values())
+    heroes = process(data)
 
-with open('../heroes.json', 'w') as file:
-    json.dump(uniqued, file, indent=4)
+    with open('../heroes.json', 'w') as file:
+        json.dump(heroes, file, indent=4)
 
+if __name__ == "__main__":
+    main()
