@@ -22,12 +22,27 @@ limited_sets = {
     'SUP': 'SUP',
 }
 
+# This is mostly just to map the two halves of Rhinar v Dorinthea to the same "box" format
 boxed_sets = {
     'DVR': 'DVR',
     'RVD': 'DVR',
     'TCC': 'TCC',
     'SMP': 'SMP',
 }
+
+'''
+Manual fixups
+
+1. Legal formats for Hala
+2. Legal formats for Ruudi
+3. Legal formats for Brutus
+'''
+
+fixes = [
+    ('ruudi-gem-keeper', { 'formats': [] }),
+    ('hala-bladesaint-of-the-vow', { 'formats': ['cc', 'll' ] }),
+    ('brutus-summa-rudis', { 'formats': ['upf']})
+]
 
 def merge(item1, item2):
     return {
@@ -56,6 +71,9 @@ def is_sage_legal(item):
 
 def is_limited_legal(item):
     return ('Young' in item['types'] or 'Pit-Fighter' in item['types']) and item['rarity'] not in ['V', 'L']
+
+def is_hero_card(item):
+    return 'Hero' in item['types']
 
 def formats(item):
     formats = []
@@ -93,10 +111,6 @@ def formats(item):
         boxed = boxed_sets.get(item['set_id'], None)
         if boxed:
             formats.append(f'Boxed:{boxed}')
-
-    # Fixup some known data issues
-    # if normalize_hero_id(item) == 'rhinar' and ('Boxed:DVR' not in formats):
-        # formats.append('Boxed:DVR')
     
     return formats
 
@@ -135,7 +149,7 @@ def load_card_data():
 
 def process(data):
     processed = [process_card(x) for x in data]
-    filtered = [x for x in processed if 'Hero' in x['types']]
+    filtered = [x for x in processed if is_hero_card(x)]
 
     mapping = {}
     for card in filtered:
@@ -144,7 +158,19 @@ def process(data):
             mapping[card['id']] = merge(other, card)
         else:
             mapping[card['id']] = card
+
+
+    for fix in fixes:
+        id = fix[0]
+        change = fix[1]
+        item = mapping.get(fix[0])
+        if not item: continue
+        
+        mapping[id] = {
+            **item, **change
+        }
     uniqued = list(mapping.values())
+
     return uniqued
 
 def main():

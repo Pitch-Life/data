@@ -383,9 +383,7 @@
             "Hero"
         ],
         "formats": [
-            "cc",
-            "upf",
-            "ll"
+            "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/brutus-summa-rudis.heic"
     },
@@ -892,9 +890,8 @@
             "Hero"
         ],
         "formats": [
-            "blitz",
-            "ll",
-            "commoner"
+            "cc",
+            "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/hala-bladesaint-of-the-vow.heic"
     },
@@ -1743,10 +1740,7 @@
             "Hero",
             "Merchant"
         ],
-        "formats": [
-            "cc",
-            "ll"
-        ],
+        "formats": [],
         "image_url": "https://pitch-life.github.io/images/ruudi-gem-keeper.heic"
     },
     {
