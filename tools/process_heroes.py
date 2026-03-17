@@ -43,6 +43,7 @@ fixes = [
     ('hala-bladesaint-of-the-vow', { 'formats': ['cc', 'll' ] }),
     ('brutus-summa-rudis', { 'formats': ['upf']}),
     ('taipanis-dracai-of-judgement', {'formats': ['upf']}),
+    ('blaze-firemind', {'formats': sorted(['upf', 'blitz', 'sage'])})
 ]
 
 def merge(item1, item2):

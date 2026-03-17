@@ -223,6 +223,7 @@
         ],
         "formats": [
             "blitz",
+            "sage",
             "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/blaze-firemind.heic"
