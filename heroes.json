@@ -117,6 +117,39 @@
         "image_url": "https://pitch-life.github.io/images/aurora.heic"
     },
     {
+        "id": "aurora-emissary-of-lightning",
+        "name": "Aurora, Emissary of Lightning",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Lightning",
+            "Runeblade"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OMN",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/aurora-emissary-of-lightning.heic"
+    },
+    {
+        "id": "aurora-legacy-of-tempest",
+        "name": "Aurora, Legacy of Tempest",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Lightning",
+            "Runeblade"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ],
+        "image_url": "https://pitch-life.github.io/images/aurora-legacy-of-tempest.heic"
+    },
+    {
         "id": "aurora-shooting-star",
         "name": "Aurora, Shooting Star",
         "health": 40,
@@ -1505,6 +1538,39 @@
         "image_url": "https://pitch-life.github.io/images/oscilio-constella-intelligence.heic"
     },
     {
+        "id": "oscilio-forked-continuum",
+        "name": "Oscilio, Forked Continuum",
+        "health": 38,
+        "types": [
+            "Hero",
+            "Lightning",
+            "Wizard"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ],
+        "image_url": "https://pitch-life.github.io/images/oscilio-forked-continuum.heic"
+    },
+    {
+        "id": "oscilio-scion-of-the-third-age",
+        "name": "Oscilio, Scion of the Third Age",
+        "health": 19,
+        "types": [
+            "Hero",
+            "Lightning",
+            "Wizard"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OMN",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/oscilio-scion-of-the-third-age.heic"
+    },
+    {
         "id": "pleiades",
         "name": "Pleiades",
         "health": 20,
@@ -2203,5 +2269,38 @@
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/zen-tamer-of-purpose.heic"
+    },
+    {
+        "id": "zyggy",
+        "name": "Zyggy",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Lightning"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:OMN",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/zyggy.heic"
+    },
+    {
+        "id": "zyggy-starlight",
+        "name": "Zyggy Starlight",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Illusionist",
+            "Lightning"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ],
+        "image_url": "https://pitch-life.github.io/images/zyggy-starlight.heic"
     }
 ]

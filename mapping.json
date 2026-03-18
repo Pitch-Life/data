@@ -126,5 +126,11 @@
   "lyath-goldmane-vile-savant": "lyath-goldmane",
   "lyath-goldmane": "lyath-goldmane-vile-savant",
   "kayo-strong-arm": "kayo-underhanded-cheat",
-  "kayo-underhanded-cheat": "kayo-strong-arm"
+  "kayo-underhanded-cheat": "kayo-strong-arm",
+  "zyggy-starlight": "zyggy",
+  "zyggy": "zyggy-starlight",
+  "aurora-legacy-of-tempest": "aurora-emissary-of-lightning",
+  "aurora-emissary-of-lightning": "aurora-legacy-of-tempest",
+  "oscilio-forked-continuum": "oscilio-scion-of-the-third-age",
+  "oscilio-scion-of-the-third-age": "oscilio-forked-continuum"
 }
