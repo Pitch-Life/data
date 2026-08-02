@@ -20,6 +20,9 @@ limited_sets = {
     'SEA': 'SEA',
     'MPG': 'MPG',
     'SUP': 'SUP',
+    'OMN': 'OMN',
+    'MPW': 'MPW',
+    'IAR': 'IAR',
 }
 
 # This is mostly just to map the two halves of Rhinar v Dorinthea to the same "box" format
@@ -28,6 +31,7 @@ boxed_sets = {
     'RVD': 'DVR',
     'TCC': 'TCC',
     'SMP': 'SMP',
+    'SPW': 'SPW',
 }
 
 '''
@@ -43,7 +47,9 @@ fixes = [
     ('hala-bladesaint-of-the-vow', { 'formats': ['cc', 'll' ] }),
     ('brutus-summa-rudis', { 'formats': ['upf']}),
     ('taipanis-dracai-of-judgement', {'formats': ['upf']}),
-    ('blaze-firemind', {'formats': sorted(['upf', 'blitz', 'sage'])})
+    ('the-librarian-magister-of-history', {'formats': ['upf']}),
+    ('blaze-firemind', {'formats': sorted(['upf', 'blitz', 'sage'])}),
+    ('viserai-usurper', {'formats': [], 'health': 40}),
 ]
 
 def merge(item1, item2):
@@ -69,7 +75,7 @@ def is_commoner_legal(item):
     return item['commoner_legal'] and not item['commoner_banned']
 
 def is_sage_legal(item):
-    return item['silver_age_legal'] and not item['silver_age_banned']
+    return item['silver_age_legal'] #and not item['silver_age_banned']
 
 def is_limited_legal(item):
     return ('Young' in item['types'] or 'Pit-Fighter' in item['types']) and item['rarity'] not in ['V', 'L']
