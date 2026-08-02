@@ -123,7 +123,8 @@
         "types": [
             "Hero",
             "Lightning",
-            "Runeblade"
+            "Runeblade",
+            "Young"
         ],
         "formats": [
             "blitz",
@@ -196,6 +197,25 @@
         "image_url": "https://pitch-life.github.io/images/azalea-ace-in-the-hole.heic"
     },
     {
+        "id": "baalghor-omen-of-the-end",
+        "name": "Baalghor, Omen of the End",
+        "health": 33,
+        "types": [
+            "Demon",
+            "Hero",
+            "Shadow",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:IAR",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/baalghor-omen-of-the-end.heic"
+    },
+    {
         "id": "benji-the-piercing-wind",
         "name": "Benji, the Piercing Wind",
         "health": 17,
@@ -250,8 +270,8 @@
         "name": "Blaze, Firemind",
         "health": 17,
         "types": [
-            "Wizard",
             "Hero",
+            "Wizard",
             "Young"
         ],
         "formats": [
@@ -607,14 +627,17 @@
         "name": "Dorinthea, Quicksilver Prodigy",
         "health": 20,
         "types": [
-            "Warrior",
             "Hero",
+            "Warrior",
             "Young"
         ],
         "formats": [
             "blitz",
-            "upf",
-            "Boxed:DVR"
+            "Boxed:DVR",
+            "commoner",
+            "Limited:MPW",
+            "sage",
+            "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/dorinthea-quicksilver-prodigy.heic"
     },
@@ -832,7 +855,6 @@
             "Runeblade"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/florian-rotwood-harbinger.heic"
@@ -842,8 +864,8 @@
         "name": "Frankie, Make Ends Meat",
         "health": 20,
         "types": [
-            "Necromancer",
             "Hero",
+            "Necromancer",
             "Young"
         ],
         "formats": [
@@ -910,18 +932,36 @@
             "Pit-Fighter"
         ],
         "formats": [
-            "upf",
-            "Boxed:SMP"
+            "Boxed:SMP",
+            "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/groundbreaker-crix.heic"
+    },
+    {
+        "id": "hala",
+        "name": "Hala",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Warrior",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MPW",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/hala.heic"
     },
     {
         "id": "hala-bladesaint-of-the-vow",
         "name": "Hala, Bladesaint of the Vow",
         "health": 40,
         "types": [
-            "Warrior",
-            "Hero"
+            "Hero",
+            "Warrior"
         ],
         "formats": [
             "cc",
@@ -1235,6 +1275,7 @@
         "formats": [
             "blitz",
             "commoner",
+            "Limited:IAR",
             "Limited:MON",
             "sage",
             "upf"
@@ -1322,6 +1363,40 @@
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/lyath-goldmane-vile-savant.heic"
+    },
+    {
+        "id": "malice",
+        "name": "Malice",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Necromancer",
+            "Shadow",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:IAR",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/malice.heic"
+    },
+    {
+        "id": "malice-domina-of-the-dead",
+        "name": "Malice, Domina of the Dead",
+        "health": 40,
+        "types": [
+            "Shadow",
+            "Necromancer",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ],
+        "image_url": "https://pitch-life.github.io/images/malice-domina-of-the-dead.heic"
     },
     {
         "id": "marlynn",
@@ -1484,6 +1559,7 @@
             "blitz",
             "commoner",
             "Limited:HVY",
+            "Limited:MPW",
             "sage",
             "upf"
         ],
@@ -1559,7 +1635,8 @@
         "types": [
             "Hero",
             "Lightning",
-            "Wizard"
+            "Wizard",
+            "Young"
         ],
         "formats": [
             "blitz",
@@ -1649,7 +1726,6 @@
             "Light"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/prism-awakener-of-sol.heic"
@@ -1952,6 +2028,20 @@
         "image_url": "https://pitch-life.github.io/images/terra.heic"
     },
     {
+        "id": "the-librarian-magister-of-history",
+        "name": "The Librarian, Magister of History",
+        "health": 20,
+        "types": [
+            "Light",
+            "Adjudicator",
+            "Hero"
+        ],
+        "formats": [
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/the-librarian-magister-of-history.heic"
+    },
+    {
         "id": "theryon-magister-of-justice",
         "name": "Theryon, Magister of Justice",
         "health": 20,
@@ -2165,6 +2255,25 @@
         "image_url": "https://pitch-life.github.io/images/viserai.heic"
     },
     {
+        "id": "viserai-between-worlds",
+        "name": "Viserai, Between Worlds",
+        "health": 20,
+        "types": [
+            "Hero",
+            "Runeblade",
+            "Shadow",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:IAR",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/viserai-between-worlds.heic"
+    },
+    {
         "id": "viserai-rune-blood",
         "name": "Viserai, Rune Blood",
         "health": 40,
@@ -2176,6 +2285,34 @@
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/viserai-rune-blood.heic"
+    },
+    {
+        "id": "viserai-usurper",
+        "name": "Viserai, Usurper",
+        "health": 40,
+        "types": [
+            "Demon",
+            "Hero",
+            "Runeblade",
+            "Shadow"
+        ],
+        "formats": [],
+        "image_url": "https://pitch-life.github.io/images/viserai-usurper.heic"
+    },
+    {
+        "id": "viserai-the-forsaken",
+        "name": "Viserai, the Forsaken",
+        "health": 40,
+        "types": [
+            "Hero",
+            "Runeblade",
+            "Shadow"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ],
+        "image_url": "https://pitch-life.github.io/images/viserai-the-forsaken.heic"
     },
     {
         "id": "vynnset",
@@ -2277,7 +2414,8 @@
         "types": [
             "Hero",
             "Illusionist",
-            "Lightning"
+            "Lightning",
+            "Young"
         ],
         "formats": [
             "blitz",
