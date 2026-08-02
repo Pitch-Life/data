@@ -50,6 +50,7 @@ fixes = [
     ('the-librarian-magister-of-history', {'formats': ['upf']}),
     ('blaze-firemind', {'formats': sorted(['upf', 'blitz', 'sage'])}),
     ('viserai-usurper', {'formats': [], 'health': 40}),
+    ('prism-advent-of-thrones', {'formats': sorted(['upf', 'blitz', 'sage'])}),
 ]
 
 def merge(item1, item2):

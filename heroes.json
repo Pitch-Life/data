@@ -1712,6 +1712,7 @@
         ],
         "formats": [
             "blitz",
+            "sage",
             "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/prism-advent-of-thrones.heic"
