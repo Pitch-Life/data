@@ -48,9 +48,12 @@ fixes = [
     ('brutus-summa-rudis', { 'formats': ['upf']}),
     ('taipanis-dracai-of-judgement', {'formats': ['upf']}),
     ('the-librarian-magister-of-history', {'formats': ['upf']}),
+    ('theryon-magister-of-justice', {'formats': ['upf']}),
     ('blaze-firemind', {'formats': sorted(['upf', 'blitz', 'sage'])}),
     ('viserai-usurper', {'formats': [], 'health': 40}),
     ('prism-advent-of-thrones', {'formats': sorted(['upf', 'blitz', 'sage'])}),
+    ('verdance-thorn-of-the-rose', {'formats': sorted(['ll'])}),
+    ('victor-goldmane-high-and-mighty', {'formats': sorted(['ll'])}),
 ]
 
 def merge(item1, item2):

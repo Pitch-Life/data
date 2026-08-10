@@ -2052,8 +2052,6 @@
             "Light"
         ],
         "formats": [
-            "cc",
-            "ll",
             "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/theryon-magister-of-justice.heic"
@@ -2185,7 +2183,6 @@
             "Wizard"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/verdance-thorn-of-the-rose.heic"
@@ -2217,7 +2214,6 @@
             "Hero"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/victor-goldmane-high-and-mighty.heic"
