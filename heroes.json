@@ -632,6 +632,7 @@
         "formats": [
             "blitz",
             "Boxed:DVR",
+            "Boxed:SPW",
             "commoner",
             "Limited:MPW",
             "sage",
@@ -977,6 +978,7 @@
         ],
         "formats": [
             "blitz",
+            "Boxed:SPW",
             "commoner",
             "Limited:MPW",
             "sage",
@@ -1604,6 +1606,7 @@
         ],
         "formats": [
             "blitz",
+            "Boxed:SPW",
             "commoner",
             "Limited:HVY",
             "Limited:MPW",
