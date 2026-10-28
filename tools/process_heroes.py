@@ -23,6 +23,7 @@ limited_sets = {
     'OMN': 'OMN',
     'MPW': 'MPW',
     'IAR': 'IAR',
+    'MPA': 'MPA',
 }
 
 # This is mostly just to map the two halves of Rhinar v Dorinthea to the same "box" format

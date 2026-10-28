@@ -11,6 +11,7 @@
         "formats": [
             "blitz",
             "commoner",
+            "Limited:MPA",
             "sage",
             "upf"
         ],
@@ -55,7 +56,6 @@
             "Hero"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/arakni-marionette.heic"
@@ -505,7 +505,6 @@
             "Royal"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/cindra-dracai-of-retribution.heic"
@@ -537,7 +536,6 @@
             "Mechanologist"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/dash-io.heic"
@@ -640,6 +638,38 @@
             "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/dorinthea-quicksilver-prodigy.heic"
+    },
+    {
+        "id": "dr-mortimer",
+        "name": "Dr. Mortimer",
+        "health": 20,
+        "types": [
+            "Assassin",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "commoner",
+            "Limited:MPA",
+            "sage",
+            "upf"
+        ],
+        "image_url": "https://pitch-life.github.io/images/dr-mortimer.heic"
+    },
+    {
+        "id": "dr-mortimer-blight-of-the-pits",
+        "name": "Dr. Mortimer, Blight of the Pits",
+        "health": 40,
+        "types": [
+            "Assassin",
+            "Hero"
+        ],
+        "formats": [
+            "cc",
+            "ll"
+        ],
+        "image_url": "https://pitch-life.github.io/images/dr-mortimer-blight-of-the-pits.heic"
     },
     {
         "id": "dromai",
@@ -770,7 +800,6 @@
             "Ninja"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/fai-rising-rebellion.heic"
@@ -1107,7 +1136,6 @@
             "Warrior"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/kassai-of-the-golden-sand.heic"
@@ -1206,7 +1234,6 @@
             "Hero"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/kayo-armed-and-dangerous.heic"
@@ -1261,6 +1288,26 @@
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/kayo-underhanded-cheat.heic"
+    },
+    {
+        "id": "killjoy-the-crooked-blade",
+        "name": "Killjoy, the Crooked Blade",
+        "health": 20,
+        "types": [
+            "Reviled",
+            "Warrior",
+            "Thief",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf",
+            "commoner",
+            "sage",
+            "Boxed:SPW"
+        ],
+        "image_url": "https://pitch-life.github.io/images/killjoy-the-crooked-blade.heic"
     },
     {
         "id": "levia",
@@ -1608,7 +1655,6 @@
             "Wizard"
         ],
         "formats": [
-            "cc",
             "ll"
         ],
         "image_url": "https://pitch-life.github.io/images/oscilio-constella-intelligence.heic"
@@ -1892,17 +1938,17 @@
         "name": "Scurv, Stowaway",
         "health": 20,
         "types": [
+            "Hero",
             "Pirate",
             "Thief",
-            "Hero",
             "Young"
         ],
         "formats": [
             "blitz",
-            "upf",
             "commoner",
+            "Limited:SEA",
             "sage",
-            "Limited:SEA"
+            "upf"
         ],
         "image_url": "https://pitch-life.github.io/images/scurv-stowaway.heic"
     },
@@ -2102,6 +2148,7 @@
         "formats": [
             "blitz",
             "commoner",
+            "Limited:MPA",
             "Limited:OUT",
             "sage",
             "upf"
@@ -2370,6 +2417,25 @@
         ],
         "formats": [],
         "image_url": "https://pitch-life.github.io/images/yorick-weaver-of-tales.heic"
+    },
+    {
+        "id": "zane-broadly-beloved",
+        "name": "Zane, Broadly Beloved",
+        "health": 20,
+        "types": [
+            "Revered",
+            "Warrior",
+            "Hero",
+            "Young"
+        ],
+        "formats": [
+            "blitz",
+            "upf",
+            "commoner",
+            "sage",
+            "Boxed:SPW"
+        ],
+        "image_url": "https://pitch-life.github.io/images/zane-broadly-beloved.heic"
     },
     {
         "id": "zen",

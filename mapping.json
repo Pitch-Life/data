@@ -132,5 +132,11 @@
   "aurora-legacy-of-tempest": "aurora-emissary-of-lightning",
   "aurora-emissary-of-lightning": "aurora-legacy-of-tempest",
   "oscilio-forked-continuum": "oscilio-scion-of-the-third-age",
-  "oscilio-scion-of-the-third-age": "oscilio-forked-continuum"
+  "oscilio-scion-of-the-third-age": "oscilio-forked-continuum",
+  "viserai-between-worlds": "viserai-the-forsaken",
+  "viserai-the-forsaken": "viserai-between-worlds",
+  "malice": "malice-domina-of-the-dead",
+  "malice-domina-of-the-dead": "malice",
+  "dr-mortimer": "dr-mortimer-blight-of-the-pits",
+  "dr-mortimer-blight-of-the-pits": "dr-mortimer"
 }
